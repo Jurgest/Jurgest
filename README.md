@@ -87,6 +87,6 @@
 
 ⭐ \*\*If you like my work,
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1RImB6K9Pu6tReAT2Toq25Y_ihTmUTkub" alt="banner"/>
-</p>
+</p> -->
