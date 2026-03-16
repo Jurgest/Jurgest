@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jurgest Balla</h1>
-<h3 align="center">Full Stack Developer &nbsp;|&nbsp; 7+ Years Experience &nbsp;|&nbsp; React · Node.js · Cloud · AI</h3>
+<h3 align="center">Full Stack Developer &nbsp;|&nbsp; 7+ Years Experience &nbsp;|&nbsp; React · Node.js · TypeScript · AI</h3>
 
 <p align="center">
   <a href="mailto:jurgestballa@gmail.com">jurgestballa@gmail.com</a> &nbsp;•&nbsp;
@@ -11,7 +11,7 @@
 
 ## About Me
 
-Full Stack Developer with 7+ years of professional experience building scalable web and mobile applications. I specialize in React, React Native, Node.js, NestJS, and TypeScript, with strong expertise in GraphQL & REST API design, cloud-native architectures (AWS, Firebase), and AI-powered features (Python, LangChain, OpenAI API).
+Full Stack Developer with 7+ years of professional experience building scalable web and mobile applications. I specialize in React, React Native, Node.js, NestJS, and TypeScript, with strong expertise in GraphQL & REST API design. I deploy applications on AWS and Firebase, implement CI/CD pipelines, and build AI-powered features using Python, LangChain, and OpenAI API.
 
 I've delivered production-ready solutions across FinTech, Healthcare, E-Commerce, and SaaS domains — from initial concept through deployment and long-term maintenance. I thrive in Agile teams and focus on clean, modular, well-documented code with a strong emphasis on security and performance.
 
@@ -54,7 +54,7 @@ I've delivered production-ready solutions across FinTech, Healthcare, E-Commerce
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" width="50" height="50"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/></a>
 </p>
 
@@ -92,7 +92,7 @@ I've delivered production-ready solutions across FinTech, Healthcare, E-Commerce
 
 - Built scalable full stack applications with React, React Native, Node.js, NestJS, and Express.js
 - Designed & integrated RESTful and GraphQL APIs with JWT/RBAC authentication
-- Deployed cloud-native solutions on AWS (Lambda, API Gateway, S3, DynamoDB) and Firebase
+- Deployed applications on AWS (Lambda, API Gateway, S3, DynamoDB) and Firebase
 - Implemented CI/CD pipelines with GitHub Actions and Jenkins
 - Built AI-powered features using Python, FastAPI, LangChain, and OpenAI API
 - Contributed to FinTech, Healthcare, E-Commerce, SaaS, and HR platforms
