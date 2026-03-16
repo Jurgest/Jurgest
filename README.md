@@ -1,92 +1,125 @@
-<h1 align="center">Hi 👋, I'm Jurgest</h1>
+<h1 align="center">Hi, I'm Jurgest Balla</h1>
+<h3 align="center">Full Stack Developer &nbsp;|&nbsp; 7+ Years Experience &nbsp;|&nbsp; React · Node.js · Cloud · AI</h3>
 
-## 🚀 About Me
-
-👨‍💻 Experienced Full-Stack Developer passionate about building scalable web applications and high-performance APIs. I specialize in modern JavaScript frameworks and back-end technologies, ensuring efficient and well-structured codebases.
-
-🔭 Currently working with **TypeScript, Node.js, Nest.js, React, Next.js, React Native**  
-🌱 Learning **Kubernetes, and Advanced DevOps Practices**  
-💡 Open to collaboration on exciting projects that push boundaries  
-📫 Reach me at **ballajurgest@gmail.com**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### **🌐 Frontend**
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" style="text-decoration: none;">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" style="text-decoration: none;">
-    <!-- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" style="filter: invert(1);" width="50" height="50"/> -->
-        <img src="https://camo.githubusercontent.com/c3635f27439ecdbf20e3cbf969c156f4040f10a0c8c836cf307d916dd8f806d4/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="Next.js" style="filter: invert(1);" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="Sass" width="50" height="50"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg"    alt="Angular" width="50" height="50"/>
-  </a>
-</p>
-
-### **⚙️ Backend**
-
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-  <a href="https://redis.io" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/>
-  </a>
-</p>
-
-### **🛠 DevOps & Tools**
-
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  </a>
+<p align="center">
+  <a href="mailto:jurgestballa@gmail.com">jurgestballa@gmail.com</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/jurgest-balla-24601">LinkedIn</a> &nbsp;•&nbsp;
+  Tirana, Albania
 </p>
 
 ---
 
-## 📬 Get in Touch
+## About Me
 
-<!-- 💼 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)   -->
+Full Stack Developer with 7+ years of professional experience building scalable web and mobile applications. I specialize in React, React Native, Node.js, NestJS, and TypeScript, with strong expertise in GraphQL & REST API design, cloud-native architectures (AWS, Firebase), and AI-powered features (Python, LangChain, OpenAI API).
 
-📧 **Email:** ballajurgest@gmail.com
+I've delivered production-ready solutions across FinTech, Healthcare, E-Commerce, and SaaS domains — from initial concept through deployment and long-term maintenance. I thrive in Agile teams and focus on clean, modular, well-documented code with a strong emphasis on security and performance.
 
-<!-- 🐦 **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)   -->
-
-💻 **LinkedIn:** [Jurgest Balla](https://linkedin.com/in/jurgest-balla-24601)
+- 🔭 Currently building full stack & AI-powered applications at **Flutter International**
+- 🌱 Deepening expertise in **Kubernetes, Terraform, and Advanced DevOps**
+- 💡 Open to collaborating on ambitious, impactful projects
+- 🌍 Languages: **English** (fluent) · **Italian** (conversational)
 
 ---
 
-⭐ \*\*If you like my work,
+## Tech Stack
 
-<!-- <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1RImB6K9Pu6tReAT2Toq25Y_ihTmUTkub" alt="banner"/>
-</p> -->
+### Frontend
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://camo.githubusercontent.com/c3635f27439ecdbf20e3cbf969c156f4040f10a0c8c836cf307d916dd8f806d4/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="Next.js" width="50" height="50"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="Sass" width="50" height="50"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/></a>
+</p>
+
+### Backend
+
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50" height="50"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="50" height="50"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+</p>
+
+### Databases
+
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/></a>
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+</p>
+
+### Testing & Tools
+
+<p align="left">
+  <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="50" height="50"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+</p>
+
+---
+
+## Professional Experience
+
+| Period              | Role                  | Company                                      |
+| ------------------- | --------------------- | -------------------------------------------- |
+| May 2023 – Present  | Software Developer    | Flutter International — Tirana, Albania      |
+| Oct 2022 – May 2023 | Application Developer | Honest Solution Ltd — Tirana, Albania        |
+| May 2019 – Oct 2022 | Application Developer | Inovacion (SNET / Fastech) — Tirana, Albania |
+
+**Highlights:**
+
+- Built scalable full stack applications with React, React Native, Node.js, NestJS, and Express.js
+- Designed & integrated RESTful and GraphQL APIs with JWT/RBAC authentication
+- Deployed cloud-native solutions on AWS (Lambda, API Gateway, S3, DynamoDB) and Firebase
+- Implemented CI/CD pipelines with GitHub Actions and Jenkins
+- Built AI-powered features using Python, FastAPI, LangChain, and OpenAI API
+- Contributed to FinTech, Healthcare, E-Commerce, SaaS, and HR platforms
+
+---
+
+## Featured Projects
+
+| Project                   | Stack                              | Description                                                                |
+| ------------------------- | ---------------------------------- | -------------------------------------------------------------------------- |
+| **AI-Powered Tools**      | Python, FastAPI, LangChain, OpenAI | Chatbot & recommendation engines for automation and intelligent search     |
+| **FinTech Platform**      | React, NestJS, AWS                 | Secure payment workflows, financial dashboards, and transaction management |
+| **Social Networking App** | React Native, Firebase, WebSockets | Cross-platform mobile & web app with real-time chat                        |
+| **Healthcare Platform**   | React, Node.js, GraphQL            | HIPAA-aligned patient management with focus on data security               |
+| **CMS Platform**          | React, Node.js, PostgreSQL         | Role-based content management with multilingual support                    |
+| **E-Commerce & Ordering** | Next.js, Stripe, Firebase          | Responsive e-commerce portal and mobile app with payment integration       |
+
+---
+
+## Education
+
+- **Master's in Business Informatics** — University of Tirana (2017–2019)
+- **Bachelor's in Business Informatics** — University of Tirana (2014–2017)
+
+---
+
+## Get in Touch
+
+📧 **Email:** jurgestballa@gmail.com
+💼 **LinkedIn:** [Jurgest Balla](https://linkedin.com/in/jurgest-balla-24601)
