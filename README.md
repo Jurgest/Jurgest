@@ -13,7 +13,7 @@
 
 I connect ERPs to the rest of the business and modernize the legacy systems around them — with product-grade full-stack work behind it, from high-traffic platforms to trading products.
 
-**Open to:** remote B2B projects (CET) · full-time roles with relocation to Germany, Austria, the Netherlands, Finland or Luxembourg (EU Blue Card).
+**Open to:** remote B2B projects (CET) · full-time roles with relocation to Germany, Austria, the Netherlands, Finland or Luxembourg.
 
 ## What I work on
 
