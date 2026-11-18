@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://jurgest.com"><img src="https://img.shields.io/badge/Portfolio-jurgest.com-06B6D4?style=flat-square" alt="Portfolio: jurgest.com"/></a>
-  <a href="https://www.linkedin.com/in/jurgest-balla-24601"><img src="https://img.shields.io/badge/LinkedIn-Jurgest%20Balla-0A66C2?style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jurgestballa"><img src="https://img.shields.io/badge/LinkedIn-Jurgest%20Balla-0A66C2?style=flat-square" alt="LinkedIn"/></a>
   <a href="mailto:info@jurgest.com"><img src="https://img.shields.io/badge/Email-info%40jurgest.com-EA4335?style=flat-square" alt="Email: info@jurgest.com"/></a>
 </p>
 
